@@ -1,0 +1,331 @@
+JAVA PROGRAMMING COURSE - GENERAL INDEX
+=======================================
+
+TOPIC 1: INTRODUCTION TO PROGRAMMING AND JAVA
+----------------------------------------------
+1.1 THEORY
+  - What is programming?
+  - History of Java
+  - Java characteristics
+  - JVM, JRE and JDK
+  - Development environment installation
+  - First program: "Hello World"
+  - Compilation and execution
+
+1.2 PRACTICE
+  - Exercise 1: Environment installation and configuration
+  - Exercise 2: Create and run "Hello World"
+  - Exercise 3: Modify the basic program
+
+TOPIC 2: LANGUAGE FUNDAMENTALS
+------------------------------
+2.1 THEORY
+  - Basic Java syntax
+  - Comments
+  - Identifiers and reserved words
+  - Primitive data types
+  - Variables and constants
+  - Operators (arithmetic, relational, logical)
+  - Basic input and output (Scanner, System.out)
+
+2.2 PRACTICE
+  - Exercise 1: Variable declaration
+  - Exercise 2: Basic calculator
+  - Exercise 3: User data input
+  - Exercise 4: Operations with different data types
+
+TOPIC 3: CONTROL STRUCTURES
+---------------------------
+3.1 THEORY
+  - Conditional structures (if, else if, else)
+  - Ternary operator
+  - Switch-case
+  - Loops (for, while, do-while)
+  - Break and continue
+  - Nested loops
+
+3.2 PRACTICE
+  - Exercise 1: Grades program with conditionals
+  - Exercise 2: Menu with switch-case
+  - Exercise 3: Multiplication tables with loops
+  - Exercise 4: Prime numbers
+  - Exercise 5: Patterns with nested loops
+
+TOPIC 4: ARRAYS AND STRINGS
+---------------------------
+4.1 THEORY
+  - One-dimensional arrays
+  - Multi-dimensional arrays
+  - Array initialization
+  - Array traversal
+  - String class and its methods
+  - StringBuilder and StringBuffer
+  - String arrays
+
+4.2 PRACTICE
+  - Exercise 1: Grade management with arrays
+  - Exercise 2: Matrices and operations
+  - Exercise 3: String manipulation
+  - Exercise 4: Hangman game
+  - Exercise 5: Array sorting
+
+TOPIC 5: METHODS AND FUNCTIONS
+------------------------------
+5.1 THEORY
+  - Method definition and declaration
+  - Parameters and arguments
+  - Return values
+  - Method overloading
+  - Static vs instance methods
+  - Variable scope
+  - Recursion
+
+5.2 PRACTICE
+  - Exercise 1: Calculator with methods
+  - Exercise 2: Methods for array manipulation
+  - Exercise 3: Recursive factorial
+  - Exercise 4: Tower of Hanoi
+  - Exercise 5: Data validation with methods
+
+TOPIC 6: OBJECT-ORIENTED PROGRAMMING - BASIC
+--------------------------------------------
+6.1 THEORY
+  - OOP concepts
+  - Classes and objects
+  - Attributes and methods
+  - Constructors
+  - Access modifiers
+  - Encapsulation
+  - Getters and setters
+  - 'this' keyword
+
+6.2 PRACTICE
+  - Exercise 1: Person class
+  - Exercise 2: Bank account system
+  - Exercise 3: Product catalog
+  - Exercise 4: Student management
+  - Exercise 5: Book library
+
+TOPIC 7: OBJECT-ORIENTED PROGRAMMING - INTERMEDIATE
+--------------------------------------------------
+7.1 THEORY
+  - Inheritance
+  - 'super' keyword
+  - Polymorphism
+  - Method overriding
+  - Abstract classes
+  - Interfaces
+  - 'final' modifier
+
+7.2 PRACTICE
+  - Exercise 1: Animal hierarchy
+  - Exercise 2: Geometric shapes system
+  - Exercise 3: Employees and different types
+  - Exercise 4: Vehicles with interfaces
+  - Exercise 5: Polymorphic payment system
+
+TOPIC 8: OBJECT-ORIENTED PROGRAMMING - ADVANCED
+-----------------------------------------------
+8.1 THEORY
+  - Inner classes
+  - Anonymous classes
+  - Enumerations (enum)
+  - Basic annotations
+  - SOLID principles
+  - Basic design patterns (Singleton, Factory)
+
+8.2 PRACTICE
+  - Exercise 1: States with enumerations
+  - Exercise 2: Implement Singleton pattern
+  - Exercise 3: Factory Method
+  - Exercise 4: Basic Observer pattern
+  - Exercise 5: Refactoring with SOLID principles
+
+TOPIC 9: ERROR HANDLING AND EXCEPTIONS
+--------------------------------------
+9.1 THEORY
+  - Types of errors
+  - Checked vs unchecked exceptions
+  - Try-catch-finally
+  - Throw and throws
+  - Creating custom exceptions
+  - Exception hierarchy
+  - Try-with-resources
+
+9.2 PRACTICE
+  - Exercise 1: Validation with exceptions
+  - Exercise 2: File reading with error handling
+  - Exercise 3: Custom exceptions
+  - Exercise 4: Robust data input system
+  - Exercise 5: Multiple exception handling
+
+TOPIC 10: COLLECTIONS AND GENERICS
+----------------------------------
+10.1 THEORY
+  - Collections framework
+  - List, Set, Map
+  - ArrayList, LinkedList, HashSet, TreeSet
+  - HashMap, TreeMap
+  - Iterators
+  - Basic generics
+  - Wildcards
+
+10.2 PRACTICE
+  - Exercise 1: Contact list with ArrayList
+  - Exercise 2: Set of unique words
+  - Exercise 3: Dictionary with HashMap
+  - Exercise 4: Custom sorting
+  - Exercise 5: Custom generic collections
+
+TOPIC 11: INPUT/OUTPUT AND FILE HANDLING
+----------------------------------------
+11.1 THEORY
+  - Input and output streams
+  - FileInputStream, FileOutputStream
+  - BufferedReader, BufferedWriter
+  - Scanner for files
+  - Object serialization
+  - Basic NIO (Path, Files)
+
+11.2 PRACTICE
+  - Exercise 1: Text file reader
+  - Exercise 2: Writing logs to files
+  - Exercise 3: File copying
+  - Exercise 4: Object serialization
+  - Exercise 5: CSV file processor
+
+TOPIC 12: MULTITHREADING PROGRAMMING
+------------------------------------
+12.1 THEORY
+  - Concurrency concepts
+  - Thread class
+  - Runnable interface
+  - Synchronization
+  - synchronized keyword
+  - Deadlocks and prevention
+  - Basic ExecutorService
+
+12.2 PRACTICE
+  - Exercise 1: Counter with threads
+  - Exercise 2: Producer-consumer
+  - Exercise 3: Parallel download
+  - Exercise 4: Thread pool
+  - Exercise 5: Concurrent banking simulation
+
+TOPIC 13: ADVANCED JAVA FEATURES
+--------------------------------
+13.1 THEORY
+  - Basic reflection
+  - Advanced annotations
+  - Lambda expressions
+  - Streams API
+  - Optional
+  - Method references
+  - Functional interfaces
+
+13.2 PRACTICE
+  - Exercise 1: Filtering with streams
+  - Exercise 2: Map-reduce operations
+  - Exercise 3: Optional for null handling
+  - Exercise 4: Custom lambda expressions
+  - Exercise 5: Data processing pipeline
+
+TOPIC 14: DATABASE CONNECTIVITY
+-------------------------------
+14.1 THEORY
+  - JDBC fundamentals
+  - Database connection
+  - Statement, PreparedStatement
+  - ResultSet
+  - Transactions
+  - Basic connection pooling
+  - DAO Pattern
+
+14.2 PRACTICE
+  - Exercise 1: Basic database connection
+  - Exercise 2: Complete CRUD
+  - Exercise 3: User system with database
+  - Exercise 4: Banking transactions
+  - Exercise 5: DAO pattern implementation
+
+TOPIC 15: BASIC WEB DEVELOPMENT
+-------------------------------
+15.1 THEORY
+  - Basic servlets
+  - JSP fundamentals
+  - HTTP request/response
+  - Web sessions
+  - Cookies
+  - MVC pattern in web
+  - Framework introduction (Basic Spring Boot)
+
+15.2 PRACTICE
+  - Exercise 1: "Hello World" servlet
+  - Exercise 2: Web form with JSP
+  - Exercise 3: Login system
+  - Exercise 4: Basic shopping cart
+  - Exercise 5: Simple REST API
+
+TOPIC 16: TESTING AND BEST PRACTICES
+------------------------------------
+16.1 THEORY
+  - Introduction to testing
+  - Basic JUnit
+  - Unit tests
+  - Integration tests
+  - Basic mocking
+  - Code coverage
+  - Clean code principles
+  - Javadoc documentation
+
+16.2 PRACTICE
+  - Exercise 1: First tests with JUnit
+  - Exercise 2: Basic TDD
+  - Exercise 3: Tests for complex classes
+  - Exercise 4: Dependency mocking
+  - Exercise 5: Refactoring with tests
+
+TOPIC 17: DEVELOPMENT TOOLS
+---------------------------
+17.1 THEORY
+  - Basic Maven
+  - Gradle introduction
+  - Git for Java projects
+  - Advanced IDEs (IntelliJ, Eclipse)
+  - Advanced debugging
+  - Application profiling
+  - Build automation
+
+17.2 PRACTICE
+  - Exercise 1: Project with Maven
+  - Exercise 2: Dependency management
+  - Exercise 3: Build scripts
+  - Exercise 4: Complex application debugging
+  - Exercise 5: Performance optimization
+
+TOPIC 18: FINAL INTEGRATION PROJECT
+-----------------------------------
+18.1 THEORY
+  - Project planning
+  - Application architecture
+  - Applied design patterns
+  - Technical documentation
+  - Integrated best practices
+
+18.2 PRACTICE
+  - Project: Complete management system
+    * Requirements analysis
+    * Architecture design
+    * Module implementation
+    * Comprehensive testing
+    * Documentation
+    * Final presentation
+
+ADDITIONAL RESOURCES
+--------------------
+- Glossary of terms
+- Review exercises by topic
+- Complementary projects
+- Official documentation links
+- Recommended tools
+- Learning communities and resources
